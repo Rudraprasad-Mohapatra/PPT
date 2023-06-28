@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .button {
+      position: relative;
+      padding: 10px 20px;
+      background: #f1f1f1;
+      border: 1px solid #ccc;
+      display: inline-block;
+    }
+
+    .button::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -20px;
+      background-image: url(https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg);
+      background-size: 20px 20px; /* Adjust size to desired dimensions */
+      width: 200px; /* Optional: Adjust width to desired size for proper positioning */
+      height: 200px; /* Optional: Adjust height to desired size for proper positioning */
+      z-index:2;
+    }
+  </style>
+</head>
+<body>
+  <div class="button">Click me</div>
+</body>
+</html>
