@@ -1,0 +1,26 @@
+
+Resume Tips and Tricks By Anurag Tiwari
+----------------------------------------
+1.No Color (Except White and Black)
+
+2.Single Page
+
+3.For more content divide the resume in two part.
+
+4.No home address.
+
+5.2 projects Maximum 1.full stack/2.frontend/backend end to end.
+
+6.Don't write I have done this and that.Mention what you have added best part/point in project.(1 point in 2 lines with github link).(Add extrapoints like AWS i.e. you are not master of AWS but still yo have used in project)
+
+7.Techstack:React,Express,MongoDB,(Skills in you are expert and used in project)
+
+8.Always have more than one resume.(One for frontend,One for backend,One for fullstack).Add the key words from job description to your resume.If you don't know the skill then learn it from youtube in 2hr and get 20% knowledge in that technology.
+
+9.Resume shoulde be in .pdf format.
+
+10. Mention your qualification.
+
+11. Mention your certification.
+
+10.Honors relevant to CS or society and some achievement related to cs or society.Like team lead.
